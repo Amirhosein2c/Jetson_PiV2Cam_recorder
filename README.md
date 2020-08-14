@@ -1,2 +1,8 @@
-# jetson_picam_recorder
-A simple python script for capturing and saving a video on-board.
+# jetson_PiV2_cam_recorder
+A simple python script for test, capture and saving a video on-board.
+
+Credit:
+JK Jung
+https://github.com/jkjung-avt
+
+
